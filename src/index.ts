@@ -2,21 +2,32 @@ import { nGram } from "n-gram";
 import { FrameInterval } from "frame-interval";
 import { ambient } from "audiate";
 import { audio } from "./audio";
+import { configure } from "queryparams";
 // @ts-ignore
 import data from "bundle-text:./data/pg7178.txt";
 
 const ROOT = document.getElementById("root")!;
 
-const CONFIG = {
+type Tuple = [number, number];
+
+const { params, reconfigure } = configure<{
+  nGram: number;
+  fps: Tuple;
+  trim: Tuple;
+  append: Tuple;
+}>({
   nGram: 5,
-  fps: 5,
-  append: 100,
-  trim: 100,
-};
+  fps: [1, 30],
+  trim: [1, 5],
+  append: [1, 20],
+});
 
-const ngrams = nGram(CONFIG.nGram)(data);
+// @ts-ignore
+window.reconfigure = reconfigure;
 
-const range = (min: number, max: number) => {
+const ngrams = nGram(params.nGram)(data);
+
+const range = ([min, max]: Tuple) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
 };
 
@@ -60,7 +71,7 @@ const prefillScreen = () => {
 
   // Trim until we're not overflowing
   while (isOverflowing()) {
-    trim(CONFIG.trim);
+    trim(20);
   }
 };
 
@@ -71,8 +82,8 @@ const decider = new FrameInterval(1, () => {
     runner.stop();
   }
 
-  runner = new FrameInterval(range(1, 30), () => {
-    isOverflowing() ? trim(range(1, 5)) : append(range(1, 20));
+  runner = new FrameInterval(range(params.fps), () => {
+    isOverflowing() ? trim(range(params.trim)) : append(range(params.append));
   });
 
   runner.start();
