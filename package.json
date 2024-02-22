@@ -1,4 +1,23 @@
 {
   "name": "tongues",
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "@parcel/config-default": "^2.10.3",
+    "@parcel/transformer-inline-string": "2.10.3",
+    "@parcel/transformer-raw": "^2.10.3",
+    "@parcel/transformer-sass": "2.10.3",
+    "@types/howler": "^2.2.11",
+    "parcel": "^2.10.3"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html --open",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {
+    "audiate": "^2.0.0",
+    "frame-interval": "^1.0.47",
+    "howler": "^2.2.4",
+    "n-gram": "^2.0.2",
+    "queryparams": "^1.2.2"
+  }
 }

@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.33;
+  font-size: 26px;
+  margin: 0.5em 1em;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  hyphens: auto;
+  word-wrap: break-word;
+  user-select: none;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.root {
+  > :last-child {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25em;
+
+    &:after {
+      content: "";
+      display: block;
+      width: 0.5em;
+      height: 0.5em;
+      background-color: white;
+      border-radius: 50%;
+      animation: pulse 1s infinite;
+      margin-top: 0.25em;
+    }
+  }
+}
