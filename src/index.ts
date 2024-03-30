@@ -1,6 +1,6 @@
 import { nGram } from "n-gram";
 import { FrameInterval } from "frame-interval";
-import { ambient } from "audiate";
+import { ambient, block } from "audiate";
 import { audio } from "./audio";
 import { configure } from "queryparams";
 
@@ -105,12 +105,19 @@ const decider = new FrameInterval(1, () => {
   runner.start();
 });
 
-init();
+const isTouch = "ontouchstart" in window || "onmsgesturechange" in window;
 
-const start = () => {
+if (isTouch) {
+  block({
+    clickToEnable: true,
+    message: "Play",
+    onEnable: () => {
+      init();
+      decider.start();
+    },
+  });
+} else {
+  init();
   ambient();
-
   decider.start();
-};
-
-start();
+}
