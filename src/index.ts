@@ -3,6 +3,7 @@ import { FrameInterval } from "frame-interval";
 import { ambient } from "audiate";
 import { audio } from "./audio";
 import { configure } from "queryparams";
+
 // @ts-ignore
 import data from "bundle-text:./data/pg7178.txt";
 
@@ -11,21 +12,33 @@ const ROOT = document.getElementById("root")!;
 type Tuple = [number, number];
 
 const { params, reconfigure } = configure<{
-  nGram: number;
-  fps: Tuple;
-  trim: Tuple;
   append: Tuple;
+  backgroundColor: string;
+  fontColor: string;
+  fps: Tuple;
+  nGram: number;
+  textRange: Tuple;
+  trim: Tuple;
 }>({
-  nGram: 5,
-  fps: [1, 30],
-  trim: [1, 5],
-  append: [1, 20],
+  append: [1, 20], // Range of ngrams to append
+  backgroundColor: "black",
+  fontColor: "white",
+  fps: [1, 30], // Range of FPS
+  nGram: 5, // N-gram size
+  textRange: [0, 100], // Start/stop percentage of text to use for n-grams // [99.995, 100]
+  trim: [1, 5], // Range of ngams to remove
 });
 
 // @ts-ignore
 window.reconfigure = reconfigure;
 
-const ngrams = nGram(params.nGram)(data);
+const textWindow = (text: string, [startPercentage, endPercentage]: Tuple) => {
+  const start = Math.floor(text.length * (startPercentage / 100));
+  const end = Math.floor(text.length * (endPercentage / 100));
+  return text.substring(start, end);
+};
+
+const ngrams = nGram(params.nGram)(textWindow(data, params.textRange));
 
 const range = ([min, max]: Tuple) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
@@ -38,13 +51,12 @@ const random = <T>(arr: T[]) => {
 const append = (n: number) => {
   audio.type.play();
 
-  ROOT.innerHTML += new Array(n)
-    .fill(0)
-    .map(() => {
-      const word = random(ngrams);
-      return `<span>${word}</span>`;
-    })
-    .join("");
+  for (var i = 0; i < n; i++) {
+    const word = random(ngrams);
+    const span = document.createElement("span");
+    span.textContent = word;
+    ROOT.appendChild(span);
+  }
 };
 
 const trim = (n: number) => {
@@ -64,7 +76,11 @@ const getLineHeight = () => {
 const isOverflowing = () =>
   document.body.offsetHeight + getLineHeight() * 2 > window.innerHeight;
 
-const prefillScreen = () => {
+const init = () => {
+  document.body.style.backgroundColor = params.backgroundColor;
+  document.body.style.color = params.fontColor;
+
+  // Fill until overflowing
   while (!isOverflowing()) {
     append(100);
   }
@@ -89,12 +105,12 @@ const decider = new FrameInterval(1, () => {
   runner.start();
 });
 
-prefillScreen();
+init();
 
-const init = () => {
+const start = () => {
   ambient();
 
   decider.start();
 };
 
-init();
+start();

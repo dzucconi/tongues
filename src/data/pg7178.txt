@@ -1,33 +1,4 @@
-﻿The Project Gutenberg eBook of Swann's Way
-    
-This ebook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this ebook or online
-at www.gutenberg.org. If you are not located in the United States,
-you will have to check the laws of the country where you are located
-before using this eBook.
-
-Title: Swann's Way
-
-
-Author: Marcel Proust
-
-Translator: C. K. Scott-Moncrieff
-
-Release date: December 1, 2004 [eBook #7178]
-                Most recently updated: May 1, 2023
-
-Language: English
-
-Credits: Eric Eldred and David Widger
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK SWANN'S WAY ***
-
-
-
-SWANN'S WAY
+﻿SWANN'S WAY
 
 Remembrance Of Things Past, Volume One
 
@@ -608,8 +579,8 @@ lived in the Boulevard Haussmann or the Avenue de l'Opéra, and that
 he was the son of old M. Swann who must have left four or five million
 francs, but that it was a fad of his. A fad which, moreover, she thought
 was bound to amuse other people so much that in Paris, when M. Swann
-called on New Year's Day bringing her a little packet of _marrons
-glacés_, she never failed, if there were strangers in the room, to say
+called on New Year's Day bringing her a little packet of marrons
+glacés, she never failed, if there were strangers in the room, to say
 to him: "Well, M. Swann, and do you still live next door to the Bonded
 Vaults, so as to be sure of not missing your train when you go to
 Lyons?" and she would peep out of the corner of her eye, over her
@@ -797,23 +768,23 @@ because they think the whole world a trifle mad.
 
 Their interest grew, however, when, the day before Swann was to dine
 with us, and when he had made them a special present of a case of Asti,
-my great-aunt, who had in her hand a copy of the _Figaro_ in which to
+my great-aunt, who had in her hand a copy of the Figaro in which to
 the name of a picture then on view in a Corot exhibition were added the
 words, "from the collection of M. Charles Swann," asked: "Did you see
-that Swann is 'mentioned' in the _Figaro_?"
+that Swann is 'mentioned' in the Figaro?"
 
 "But I have always told you," said my grandmother, "that he had plenty
 of taste."
 
 "You would, of course," retorted my great-aunt, "say anything just to
-seem different from _us_." For, knowing that my grandmother never agreed
+seem different from us." For, knowing that my grandmother never agreed
 with her, and not being quite confident that it was her own opinion
 which the rest of us invariably endorsed, she wished to extort from us
 a wholesale condemnation of my grandmother's views, against which she
 hoped to force us into solidarity with her own.
 
 But we sat silent. My grandmother's sisters having expressed a desire
-to mention to Swann this reference to him in the _Figaro_, my great-aunt
+to mention to Swann this reference to him in the Figaro, my great-aunt
 dissuaded them. Whenever she saw in others an advantage, however
 trivial, which she herself lacked, she would persuade herself that it
 was no advantage at all, but a drawback, and would pity so as not to
@@ -963,7 +934,7 @@ morning, noon and night."
 
 "I do not agree with you: there are some days when I find reading the
 papers very pleasant indeed!" my aunt Flora broke in, to show Swann that
-she had read the note about his Corot in the _Figaro_.
+she had read the note about his Corot in the Figaro.
 
 "Yes," aunt Céline went one better. "When they write about things or
 people in whom we are interested."
@@ -974,7 +945,7 @@ some fresh triviality or other every day, whereas only three or four
 books in a lifetime give us anything that is of real importance. Suppose
 that, every morning, when we tore the wrapper off our paper with fevered
 hands, a transmutation were to take place, and we were to find inside
-it--oh! I don't know; shall we say Pascal's _Pensées_?" He articulated
+it--oh! I don't know; shall we say Pascal's Pensées?" He articulated
 the title with an ironic emphasis so as not to appear pedantic. "And
 then, in the gilt and tooled volumes which we open once in ten years,"
 he went on, shewing that contempt for the things of this world which
@@ -1511,10 +1482,10 @@ in which I could not distinguish, through the paper in which it was
 wrapped, any more than its squareness and size, but which, even at this
 first glimpse, brief and obscure as it was, bade fair to eclipse already
 the paint-box of last New Year's Day and the silkworms of the year
-before. It contained _La Mare au Diable_, _François le Champi_, _La
-Petite Fadette_, and _Les Maîtres Sonneurs_. My grandmother, as I
+before. It contained La Mare au Diable, François le Champi, La
+Petite Fadette, and Les Maîtres Sonneurs. My grandmother, as I
 learned afterwards, had at first chosen Mussel's poems, a volume of
-Rousseau, and _Indiana_; for while she considered light reading as
+Rousseau, and Indiana; for while she considered light reading as
 unwholesome as sweets and cakes, she did not reflect that the strong
 breath of genius must have upon the very soul of a child an influence
 at once more dangerous and less quickening than those of fresh air and
@@ -1590,11 +1561,11 @@ some other such piece of antiquity as would have a pleasant effect on
 the mind, filling it with a nostalgic longing for impossible journeys
 through the realms of time.
 
-Mamma sat down by my bed; she had chosen _François le Champi_, whose
+Mamma sat down by my bed; she had chosen François le Champi, whose
 reddish cover and incomprehensible title gave it a distinct personality
 in my eyes and a mysterious attraction. I had not then read any real
 novels. I had heard it said that George Sand was a typical novelist.
-That prepared me in advance to imagine that _François le Champi_
+That prepared me in advance to imagine that François le Champi
 contained something inexpressibly delicious. The course of the
 narrative, where it tended to arouse curiosity or melt to pity, certain
 modes of expression which disturb or sadden the reader, and which, with
@@ -1602,7 +1573,7 @@ a little experience, he may recognise as 'common form' in novels, seemed
 to me then distinctive--for to me a new book was not one of a number of
 similar objects, but was like an individual man, unmatched, and with no
 cause of existence beyond himself--an intoxicating whiff of the peculiar
-essence of _François le Champi_. Beneath the everyday incidents, the
+essence of François le Champi. Beneath the everyday incidents, the
 commonplace thoughts and hackneyed words, I could hear, or overhear, an
 intonation, a rhythmic utterance fine and strange. The 'action' began:
 to me it seemed all the more obscure because in those days, when I read
@@ -1614,7 +1585,7 @@ changes which take place in the relations between the miller's wife and
 the boy, changes which only the birth and growth of love can explain,
 seemed to me plunged and steeped in a mystery, the key to which (as I
 could readily believe) lay in that strange and pleasant-sounding name of
-_Champi_, which draped the boy who bore it, I knew not why, in its own
+Champi, which draped the boy who bore it, I knew not why, in its own
 bright colour, purpurate and charming. If my mother was not a faithful
 reader, she was, none the less, admirable when reading a work in which
 she found the note of true feeling by the respectful simplicity of her
@@ -2492,7 +2463,7 @@ architecture, she would say:
 
 "My dears, laugh at me if you like; it is not conventionally beautiful,
 but there is something in its quaint old face which pleases me. If it
-could play the piano, I am sure it would really _play_." And when she
+could play the piano, I am sure it would really play." And when she
 gazed on it, when her eyes followed the gentle tension, the fervent
 inclination of its stony slopes which drew together as they rose, like
 hands joined in prayer, she would absorb herself so utterly in the
@@ -2855,12 +2826,12 @@ dreams with which these announcements filled my mind, dreams which took
 their form from the inevitable associations of the words forming the
 title of the play, and also from the colour of the bills, still damp and
 wrinkled with paste, on which those words stood out. Nothing, unless
-it were such strange titles as the _Testament de César Girodot, or
-Oedipe-Roi_, inscribed not on the green bills of the Opéra-Comique, but
+it were such strange titles as the Testament de César Girodot, or
+Oedipe-Roi, inscribed not on the green bills of the Opéra-Comique, but
 on the wine-coloured bills of the Comédie-Française, nothing seemed
 to me to differ more profoundly from the sparkling white plume of
-the _Diamants de la Couronne_ than the sleek, mysterious satin of the
-_Domino Noir_; and since my parents had told me that, for my first visit
+the Diamants de la Couronne than the sleek, mysterious satin of the
+Domino Noir; and since my parents had told me that, for my first visit
 to the theatre, I should have to choose between these two pieces, I
 would study exhaustively and in turn the title of one and the title
 of the other (for those were all that I knew of either), attempting to
@@ -2870,7 +2841,7 @@ end I had shewn myself such vivid, such compelling pictures of, on
 the one hand, a play of dazzling arrogance, and on the other a gentle,
 velvety play, that I was as little capable of deciding which play I
 should prefer to see as if, at the dinner-table, they had obliged me to
-choose between _rice à l'Impératrice_ and the famous cream of chocolate.
+choose between rice à l'Impératrice and the famous cream of chocolate.
 
 All my conversations with my playfellows bore upon actors, whose art,
 although as yet I had no experience of it, was the first of all its
@@ -2913,7 +2884,7 @@ see him on certain days only, that was because on the other days ladies
 might come whom his family could not very well have met. So we at least
 thought; as for my uncle, his fatal readiness to pay pretty widows (who
 had perhaps never been married) and countesses (whose high-sounding
-titles were probably no more than _noms de guerre_) the compliment of
+titles were probably no more than noms de guerre) the compliment of
 presenting them to my grandmother or even of presenting to them some
 of our family jewels, had already embroiled him more than once with
 my grandfather. Often, if the name of some actress were mentioned in
@@ -3517,7 +3488,7 @@ would see outlined the figure of one of the women of whom I dreamed.
 
 I had heard Bergotte spoken of, for the first time, by a friend older
 than myself, for whom I had a strong admiration, a precious youth of the
-name of Bloch. Hearing me confess my love of the _Nuit d'Octobre_, he
+name of Bloch. Hearing me confess my love of the Nuit d'Octobre, he
 had burst out in a bray of laughter, like a bugle-call, and told me,
 by way of warning: "You must conquer your vile taste for A. de Musset,
 Esquire. He is a bad egg, one of the very worst, a pretty detestable
@@ -3527,12 +3498,12 @@ compose a line which is not only fairly rhythmical, but has also what is
 in my eyes the supreme merit of meaning absolutely nothing. One is
 
 
-  _La blanche Oloossone et la blanche Camire_,
+  La blanche Oloossone et la blanche Camire,
 
 and the other
 
 
-  _La fille de Minos et de Pasiphaë_."
+  La fille de Minos et de Pasiphaë."
 
 They were submitted to my judgment, as evidence for the defence of the
 two runagates, in an article by my very dear master Father Lecomte, who
@@ -3545,8 +3516,8 @@ exhibits on occasion a critical pacifism, a tenderness in suffering
 fools, for which it is impossible to account, and hard to make
 allowance, still his word has weight with me as it were the Delphic
 Oracle. Read you then this lyrical prose, and, if the Titanic
-master-builder of rhythm who composed _Bhagavat_ and the _Lévrier de
-Magnus_ speaks not falsely, then, by Apollo, you may taste, even you, my
+master-builder of rhythm who composed Bhagavat and the Lévrier de
+Magnus speaks not falsely, then, by Apollo, you may taste, even you, my
 master, the ambrosial joys of Olympus." It was in an ostensible vein of
 sarcasm that he had asked me to call him, and that he himself called me,
 "my master." But, as a matter of fact, we each derived a certain amount
@@ -3566,7 +3537,7 @@ would not have objected on principle--indeed his own friend Swann was
 of Jewish extraction--had he not found that the Jews whom I chose as
 friends were not usually of the best type. And so I was hardly ever able
 to bring a new friend home without my grandfather's humming the "O,
-God of our fathers" from _La Juive_, or else "Israel, break thy chain,"
+God of our fathers" from La Juive, or else "Israel, break thy chain,"
 singing the tune alone, of course, to an "um-ti-tum-ti-tum, tra-la"; but
 I used to be afraid of my friend's recognising the sound, and so being
 able to reconstruct the words.
@@ -3670,7 +3641,7 @@ whole of her fortune, because she was her next-of-kin, and it was the
 
 But I was fond of Bloch; my parents wished me to be happy; and the
 insoluble problems which I set myself on such texts as the 'absolutely
-meaningless' beauty of _La fille de Minos et de Pasiphaë_ tired me more
+meaningless' beauty of La fille de Minos et de Pasiphaë tired me more
 and made me more unwell than I should have been after further talks with
 him, unwholesome as those talks might seem to my mother's mind. And he
 would still have been received at Combray but for one thing. That same
@@ -3751,7 +3722,7 @@ delighted were our favourites also. For my own part I knew all of them
 by heart. I felt even disappointed when he resumed the thread of his
 narrative. Whenever he spoke of something whose beauty had until
 then remained hidden from me, of pine-forests or of hailstorms, of
-_Notre-Dame de Paris_, of _Athalie_, or of _Phèdre_, by some piece
+Notre-Dame de Paris, of Athalie, or of Phèdre, by some piece
 of imagery he would make their beauty explode and drench me with its
 essence. And so, dimly realising that the universe contained innumerable
 elements which my feeble senses would be powerless to discern, did he
@@ -3810,7 +3781,7 @@ upon his printed page, as in the arms of a long-lost father.
 From his books I had formed an impression of Bergotte as a frail and
 disappointed old man, who had lost his children, and had never found
 any consolation. And so I would read, or rather sing his sentences in
-my brain, with rather more _dolce_, rather more _lento_ than he himself
+my brain, with rather more dolce, rather more lento than he himself
 had, perhaps, intended, and his simplest phrase would strike my ears
 with something peculiarly gentle and loving in its intonation. More than
 anything else in the world I cherished his philosophy, and had pledged
@@ -3851,7 +3822,7 @@ you seen her?"
 
 "No, sir, my parents do not allow me to go to the theatre."
 
-"That is a pity. You should insist. Berma in _Phèdre_, in the _Cid_;
+"That is a pity. You should insist. Berma in Phèdre, in the Cid;
 well, she's only an actress, if you like, but you know that I don't
 believe very much in the 'hierarchy' of the arts." As he spoke I
 noticed, what had often struck me before in his conversations with
@@ -4115,8 +4086,8 @@ than a parish of farmers, though in olden times the place must have had
 a considerable importance from its trade in felt hats and clocks. (I
 am not certain, by the way, of the etymology of Roussainville. I
 should dearly like to think that the name was originally Rouville, from
-_Radulfi villa_, analogous, don't you see, to Châteauroux, _Castrum
-Radulfi_, but we will talk about that some other time.) Very well; the
+Radulfi villa, analogous, don't you see, to Châteauroux, Castrum
+Radulfi, but we will talk about that some other time.) Very well; the
 church there has superb windows, almost all quite modern, including that
 most imposing 'Entry of Louis-Philippe into Combray' which would be more
 in keeping, surely, at Combray itself, and which is every bit as good, I
@@ -4144,9 +4115,9 @@ House of Guermantes, receiving absolution from Saint Hilaire."
 a yellow robe? Very well, that is Saint Hilaire, who is also known, you
 will remember, in certain parts of the country as Saint Illiers, Saint
 Hèlier, and even, in the Jura, Saint Ylie. But these various corruptions
-of _Sanctus Hilarius_ are by no means the most curious that have
+of Sanctus Hilarius are by no means the most curious that have
 occurred in the names of the blessed Saints. Take, for example, my good
-Eulalie, the case of your own patron, _Sancta Eulalia_; do you know what
+Eulalie, the case of your own patron, Sancta Eulalia; do you know what
 she has become in Burgundy? Saint Eloi, nothing more nor less! The lady
 has become a gentleman. Do you hear that, Eulalie, after you are dead
 they will make a man of you!"
@@ -4162,7 +4133,7 @@ he did not remember, he would massacre the whole place, to the last
 inhabitant. Gilbert, wishing to be avenged on Charles, caused the church
 at Combray to be burned down, the original church, that was, which
 Théodebert, when he and his court left the country residence he had near
-here, at Thiberzy (which is, of course, _Theodeberiacus_), to go out
+here, at Thiberzy (which is, of course, Theodeberiacus), to go out
 and fight the Burgundians, had promised to build over the tomb of Saint
 Hilaire if the Saint brought him victory. Nothing remains of it now
 but the crypt, into which Théodore has probably taken you, for Gilbert
@@ -4198,7 +4169,7 @@ the habit of seeing one without the other, as, for instance, the course
 of the Vivonne and the ditches at Saint-Assise-lès-Combray, which
 are separated, really, by a screen of tall trees; or, to take another
 example, there are all the canals at Jouy-le-Vicomte, which is
-_Gaudiacus vicecomitis_, as of course you know. Each time that I have
+Gaudiacus vicecomitis, as of course you know. Each time that I have
 been to Jouy I have seen a bit of a canal in one place, and then I have
 turned a corner and seen another, but when I saw the second I could no
 longer see the first. I tried in vain to imagine how they lay by one
@@ -4816,7 +4787,7 @@ radiance of earliest dawn, these hinted rainbows, these blue evening
 shades, that precious quality which I should recognise again when, all
 night long after a dinner at which I had partaken of them, they played
 (lyrical and coarse in their jesting as the fairies in Shakespeare's
-_Dream_) at transforming my humble chamber into a bower of aromatic
+Dream) at transforming my humble chamber into a bower of aromatic
 perfume.
 
 Poor Giotto's Charity, as Swann had named her, charged by Françoise with
@@ -4906,7 +4877,7 @@ sarcasm, saying, when she thought that we had gone out of earshot:
 "Well, she need never have done what she must have done to bring all
 this about! She found that pleasant enough, I dare say! She had better
 not put on any airs now. All the same, he must have been a god-forsaken
-young man to go after _that_. Dear, dear, it's just as they used to say
+young man to go after that. Dear, dear, it's just as they used to say
 in my poor mother's country:
 
 
@@ -5143,7 +5114,7 @@ Legrandin's charming vocabulary, shewed an infinitely greater promptness
 in expressing himself, by means of what are called 'reflexes,' it
 followed that, when Legrandin the talker attempted to silence him, he
 would already have spoken, and it would be useless for our friend to
-deplore the bad impression which the revelations of his _alter ego_ must
+deplore the bad impression which the revelations of his alter ego must
 have caused, since he could do no more now than endeavour to mitigate
 them.
 
@@ -5772,8 +5743,8 @@ remotely banished from her company; and I would suddenly force my father
 had been in our family before his day, or that the hedge with the pink
 hawthorn which my aunt Léonie wished to visit was on common ground) to
 correct my statements, to say, as though in opposition to me and of his
-own accord: "No, no, the business belonged to _Swann's_ father, that
-hedge is part of _Swann's_ park." And then I would be obliged to pause
+own accord: "No, no, the business belonged to Swann's father, that
+hedge is part of Swann's park." And then I would be obliged to pause
 for breath; so stifling was the pressure, upon that part of me where it
 was for ever inscribed, of that name which, at the moment when I heard
 it, seemed to me fuller, more portentous than any other name, because
@@ -5834,7 +5805,7 @@ together, to unite us; I would imagine that the same breath had passed
 by her also, that there was some message from her in what it was
 whispering to me, without my being able to understand it, and I would
 catch and kiss it as it passed. On my left was a village called Champieu
-(_Campus Pagani_, according to the Curé). On my right I could see
+(Campus Pagani, according to the Curé). On my right I could see
 across the cornfields the two crocketed, rustic spires of
 Saint-André-des-Champs, themselves as tapering, scaly, plated,
 honeycombed, yellowed, and roughened as two ears of wheat.
@@ -6158,7 +6129,7 @@ neighbours to a great funeral banquet, and did not adopt a special tone
 when we spoke of her, while I at times might be heard humming a tune. I
 am sure that in a book--and to that extent my feelings were closely akin
 to those of Françoise--such a conception of mourning, in the manner
-of the _Chanson de Roland_ and of the porch of Saint-André-des-Champs,
+of the Chanson de Roland and of the porch of Saint-André-des-Champs,
 would have seemed most attractive. But the moment that Françoise herself
 approached, some evil spirit would urge me to attempt to make her angry,
 and I would avail myself of the slightest pretext to say to her that I
@@ -6171,10 +6142,10 @@ book, would have struck me as merely fatuous.
 And if Françoise then, inspired like a poet with a flood of confused
 reflections upon bereavement, grief, and family memories, were to
 plead her inability to rebut my theories, saying: "I don't know how to
-_espress_ myself"--I would triumph over her with an ironical and brutal
+espress myself"--I would triumph over her with an ironical and brutal
 common sense worthy of Dr. Percepied; and if she went on: "All the same
-she was a _geological_ relation; there is always the respect due to your
-_geology_," I would shrug my shoulders and say: "It is really very good
+she was a geological relation; there is always the respect due to your
+geology," I would shrug my shoulders and say: "It is really very good
 of me to discuss the matter with an illiterate old woman who cannot
 speak her own language," adopting, to deliver judgment on Françoise,
 the mean and narrow outlook of the pedant, whom those who are most
@@ -6969,7 +6940,7 @@ been very warm, I could make out, diluted and barely perceptible,
 details which resembled the portrait that had been shewn to me; because,
 more especially, the particular features which I remarked in this lady,
 if I attempted to catalogue them, formulated themselves in precisely the
-same terms:--_a large nose, blue eyes_, as Dr. Percepied had used when
+same terms:--a large nose, blue eyes, as Dr. Percepied had used when
 describing in my presence the Duchesse de Guermantes, I said to myself:
 "This lady is like the Duchesse de Guermantes." Now the chapel from
 which she was following the service was that of Gilbert the Bad; beneath
@@ -7111,7 +7082,7 @@ laid down for the wedding, along which Mme. de Guermantes smilingly
 advanced, and covered its woollen texture with a nap of rosy velvet, a
 bloom of light, giving it that sort of tenderness, of solemn sweetness
 in the pomp of a joyful celebration, which characterises certain pages
-of _Lohengrin_, certain paintings by Carpaccio, and makes us understand
+of Lohengrin, certain paintings by Carpaccio, and makes us understand
 how Baudelaire was able to apply to the sound of the trumpet the epithet
 'delicious.'
 
@@ -7554,7 +7525,7 @@ on the latter, to a family dinner at her mother's.
 
 "You don't suppose she'll die, your mother," exclaimed Mme. Verdurin
 bitterly, "if you don't have dinner with her on New Year's Day, like
-people in the _provinces_!"
+people in the provinces!"
 
 Her uneasiness was kindled again in Holy Week: "Now you, Doctor, you're
 a sensible, broad-minded man; you'll come, of course, on Good Friday,
@@ -8230,11 +8201,11 @@ been prevented from coming that evening, and would assure them that the
 "Well, all right, then," said M. Verdurin, "he can play just the
 andante."
 
-"Just the _andante_! How you do go on," cried his wife. "As if it
-weren't 'just the _andante_' that breaks every bone in my body. The
+"Just the andante! How you do go on," cried his wife. "As if it
+weren't 'just the andante' that breaks every bone in my body. The
 'Master' is really too priceless! Just as though, 'in the Ninth,' he
-said 'we need only have the _finale_,' or 'just the overture' of the
-_Meistersinger_."
+said 'we need only have the finale,' or 'just the overture' of the
+Meistersinger."
 
 The Doctor, however, urged Mme. Verdurin to let the pianist play,
 not because he supposed her to be malingering when she spoke of the
@@ -8337,7 +8308,7 @@ owing to his own ignorance of music that he had been able to receive so
 confused an impression, one of those that are, notwithstanding, our only
 purely musical impressions, limited in their extent, entirely original,
 and irreducible into any other kind. An impression of this order,
-vanishing in an instant, is, so to speak, an impression _sine materia_.
+vanishing in an instant, is, so to speak, an impression sine materia.
 Presumably the notes which we hear at such moments tend to spread out
 before our eyes, over surfaces greater or smaller according to their
 pitch and volume; to trace arabesque designs, to give us the sensation
@@ -8345,7 +8316,7 @@ of breadth or tenuity, stability or caprice. But the notes themselves
 have vanished before these sensations have developed sufficiently to
 escape submersion under those which the following, or even simultaneous
 notes have already begun to awaken in us. And this indefinite perception
-would continue to smother in its molten liquidity the _motifs_ which now
+would continue to smother in its molten liquidity the motifs which now
 and then emerge, barely discernible, to plunge again and disappear and
 drown; recognised only by the particular kind of pleasure which they
 instil, impossible to describe, to recollect, to name; ineffable;--if
@@ -8453,7 +8424,7 @@ in the street, and had despaired of ever seeing her again. Finally the
 phrase withdrew and vanished, pointing, directing, diligent among the
 wandering currents of its fragrance, leaving upon Swann's features a
 reflection of its smile. But now, at last, he could ask the name of
-his fair unknown (and was told that it was the _andante_ movement of
+his fair unknown (and was told that it was the andante movement of
 Vinteuil's sonata for the piano and violin), he held it safe, could
 have it again to himself, at home, as often as he would, could study its
 language and acquire its secret.
@@ -8529,7 +8500,7 @@ felt that the opportunity was too good to be missed, and so (while Mme.
 Verdurin was adding a final word of commendation of Vinteuil's sonata)
 like a would-be swimmer who jumps into the water, so as to learn, but
 chooses a moment when there are not too many people looking on:
-"Yes, indeed; he's what they call a musician _di primo cartello_!" he
+"Yes, indeed; he's what they call a musician di primo cartello!" he
 exclaimed, with a sudden determination.
 
 Swann discovered no more than that the recent publication of Vinteuil's
@@ -8631,7 +8602,7 @@ in not very good taste to conceal; while he frequented the Faubourg
 Saint-Germain he had come to include, in the latter class, all his
 friends in the official world of the Third Republic, and so broke in,
 without thinking: "I'll see to that, all right. You shall have it in
-time for the _Danicheff_ revival. I shall be lunching with the Prefect
+time for the Danicheff revival. I shall be lunching with the Prefect
 of Police to-morrow, as it happens, at the Elysée."
 
 "What's that? The Elysée?" Dr. Cottard roared in a voice of thunder.
@@ -8922,7 +8893,7 @@ they were punctuated with little fiery spots, plunged him in acute
 depression, as proving that one's ideal is always unattainable, and
 one's actual happiness mediocre. He was taking her an engraving which
 she had asked to see. She was not very well; she received him, wearing
-a wrapper of mauve _crêpe de Chine_, which draped her bosom, like a
+a wrapper of mauve crêpe de Chine, which draped her bosom, like a
 mantle, with a richly embroidered web. As she stood there beside him,
 brushing his cheek with the loosened tresses of her hair, bending one
 knee in what was almost a dancer's pose, so that she could lean without
@@ -9508,8 +9479,8 @@ ground-level, among the windows (all exactly alike, but darkened) of
 the adjoining houses, shone the solitary lighted window of her room.
 He would rap upon the pane, and she would hear the signal, and answer,
 before running to meet him at the gate. He would find, lying open on the
-piano, some of her favourite music, the _Valse des Roses_, the _Pauvre
-Fou_ of Tagliafico (which, according to the instructions embodied in her
+piano, some of her favourite music, the Valse des Roses, the Pauvre
+Fou of Tagliafico (which, according to the instructions embodied in her
 will, was to be played at her funeral); but he would ask her, instead,
 to give him the little phrase from Vinteuil's sonata. It was true that
 Odette played vilely, but often the fairest impression that remains in
@@ -9679,7 +9650,7 @@ smiles directed towards himself; namely, her walking abroad beneath a
 Rembrandt hat, with a bunch of violets in her bosom.
 
 Except when he asked her for Vinteuil's little phrase instead of the
-_Valse des Roses_, Swann made no effort to induce her to play the things
+Valse des Roses, Swann made no effort to induce her to play the things
 that he himself preferred, nor, in literature any more than in music, to
 correct the manifold errors of her taste. He fully realised that she was
 not intelligent. When she said how much she would like him to tell her
@@ -9881,7 +9852,7 @@ he loved, as he could not help loving everything that came from her,
 which even fascinated him, for were they not so many more of those
 characteristic features, by virtue of which the essential qualities
 of the woman emerged, and were made visible? And so, when she was in a
-happy mood because she was going to see the _Reine Topaze_, or when her
+happy mood because she was going to see the Reine Topaze, or when her
 eyes grew serious, troubled, petulant, if she was afraid of missing the
 flower-show, or merely of not being in time for tea, with muffins and
 toast, at the Rue Royale tea-rooms, where she believed that regular
@@ -9921,7 +9892,7 @@ liked, and did find a pleasure, not only in copying her habits but in
 adopting her opinions, which was all the deeper because, as those habits
 and opinions sprang from no roots in her intelligence, they suggested
 to him nothing except that love, for the sake of which he had preferred
-them to his own. If he went again to _Serge Panine_, if he looked out
+them to his own. If he went again to Serge Panine, if he looked out
 for opportunities of going to watch Olivier Métra conducting, it was for
 the pleasure of being initiated into every one of the ideas in Odette's
 mind, of feeling that he had an equal share in all her tastes. This
@@ -10125,8 +10096,8 @@ dress," the Doctor, who had never taken his eyes off him, so curious was
 he to learn the nature and attributes of what he called a "de," and was
 on the look-out for an opportunity of attracting his attention, so as
 to come into closer contact with him, caught in its flight the adjective
-'_blanche_' and, his eyes still glued to his plate, snapped out,
-"_Blanche_? Blanche of Castile?" then, without moving his head, shot
+'blanche' and, his eyes still glued to his plate, snapped out,
+"Blanche? Blanche of Castile?" then, without moving his head, shot
 a furtive glance to right and left of him, doubtful, but happy on the
 whole. While Swann, by the painful and futile effort which he made to
 smile, testified that he thought the pun absurd, Forcheville had shewn
@@ -10147,7 +10118,7 @@ tightly closed, had buried her face in her two hands, from between
 which, now and then, escaped a muffled scream.
 
 "Good gracious, Madame, I would not dream of shocking the
-reverent-minded, if there are any such around this table, _sub rosa_...
+reverent-minded, if there are any such around this table, sub rosa...
 I recognise, moreover, that our ineffable and Athenian--oh, how
 infinitely Athenian--Republic is capable of honouring, in the person of
 that obscurantist old she-Capet, the first of our chiefs of police. Yes,
@@ -10325,7 +10296,7 @@ so irresistible that it was some time before she could control it.
 dinner on Friday."
 
 "You will think me dreadfully provincial, sir," said Mme. Cottard to
-Swann, "but, do you know, I haven't been yet to this famous _Francillon_
+Swann, "but, do you know, I haven't been yet to this famous Francillon
 that everybody's talking about. The Doctor has been (I remember now,
 he told me what a very great pleasure it had been to him to spend the
 evening with you there) and I must confess, I don't see much sense in
@@ -10338,7 +10309,7 @@ being more 'distinguished,' speaking in an affected tone and with all
 the importance of a person who need give names only when she chooses)
 "who often have a box, and are kind enough to take us to all the
 new pieces that are worth going to, and so I'm certain to see this
-_Francillon_ sooner or later, and then I shall know what to think. But I
+Francillon sooner or later, and then I shall know what to think. But I
 do feel such a fool about it, I must confess, for, whenever I pay a
 call anywhere, I find everybody talking--it's only natural--about that
 wretched Japanese salad. Really and truly, one's beginning to get just a
@@ -10356,14 +10327,14 @@ till we cried. I don't know; perhaps it was the way she told it," Mme.
 Cottard added doubtfully, seeing that Swann still looked grave.
 
 And, imagining that it was, perhaps, because he had not been amused by
-_Francillon_: "Well, I daresay I shall be disappointed with it, after
+Francillon: "Well, I daresay I shall be disappointed with it, after
 all. I don't suppose it's as good as the piece Mme. de Crécy worships,
-_Serge Panine_. There's a play, if you like; so deep, makes you
+Serge Panine. There's a play, if you like; so deep, makes you
 think! But just fancy giving a receipt for a salad on the stage of the
-Théâtre-Français! Now, _Serge Panine_--! But then, it's like everything
+Théâtre-Français! Now, Serge Panine--! But then, it's like everything
 that comes from the pen of M. Georges Ohnet, it's so well written. I
-wonder if you know the _Maître des Forges_, which I like even better
-than _Serge Panine_."
+wonder if you know the Maître des Forges, which I like even better
+than Serge Panine."
 
 "Pardon me," said Swann with polite irony, "but I can assure you that
 my want of admiration is almost equally divided between those
@@ -10376,7 +10347,7 @@ plays or novels. Everyone has his own way of looking at things, and what
 may be horrible to you is, perhaps, just what I like best."
 
 She was interrupted by Forcheville's addressing Swann. What had happened
-was that, while Mme. Cottard was discussing _Francillon_, Forcheville
+was that, while Mme. Cottard was discussing Francillon, Forcheville
 had been expressing to Mme. Verdurin his admiration for what he called
 the "little speech" of the painter. "Your friend has such a flow of
 language, such a memory!" he had said to her when the painter had
@@ -10563,7 +10534,7 @@ superfluous, "All right; all right; anyhow, even if I have made a
 mistake that's not a crime, I hope," that Swann longed to be able
 to console him by insisting that the story was indubitably true and
 exquisitely funny. The Doctor, who had been listening, had an idea that
-it was the right moment to interject "_Se non è vero_," but he was not
+it was the right moment to interject "Se non è vero," but he was not
 quite certain of the words, and was afraid of being caught out.
 
 After dinner, Forcheville went up to the Doctor. "She can't have been
@@ -10648,7 +10619,7 @@ the pianist.
 Forcheville, hoping to create an effect. But Dr. Cottard, who had
 never heard this pun, missed the point of it, and imagined that M. de
 Forcheville had made a mistake. He dashed in boldly to correct it: "No,
-no. The word isn't _serpent-à-sonates_, it's _serpent-à-sonnettes_!" he
+no. The word isn't serpent-à-sonates, it's serpent-à-sonnettes!" he
 explained in a tone at once zealous, impatient, and triumphant.
 
 Forcheville explained the joke to him. The Doctor blushed.
@@ -10708,7 +10679,7 @@ she still said instinctively "the de La Trémoïlles," or, rather (by
 an abbreviation sanctified by the usage of music-hall singers and the
 writers of the 'captions' beneath caricatures, who elide the 'de'),
 "the d'La Trémoïlles," but she corrected herself at once to "Madame La
-Trémoïlle.--The _Duchess_, as Swann calls her," she added ironically,
+Trémoïlle.--The Duchess, as Swann calls her," she added ironically,
 with a smile which proved that she was merely quoting, and would not,
 herself, accept the least responsibility for a classification so puerile
 and absurd.
@@ -11571,7 +11542,7 @@ come out of one of Labiche's plays!"
 The Cottards would be there; possibly Brichot. "Could anything be more
 grotesque than the lives of these little creatures, hanging on to one
 another like that. They'd imagine they were utterly lost, upon my soul
-they would, if they didn't all meet again to-morrow at _Chatou_!"
+they would, if they didn't all meet again to-morrow at Chatou!"
 Alas! there would be the painter there also, the painter who enjoyed
 match-making, who would invite Forcheville to come with Odette to his
 studio. He could see Odette, in a dress far too smart for the country,
@@ -11609,7 +11580,7 @@ him.
 He could see the pianist sitting down to play the Moonlight Sonata, and
 the grimaces of Mme. Verdurin, in terrified anticipation of the wrecking
 of her nerves by Beethoven's music. "Idiot, liar!" he shouted, "and a
-creature like that imagines that she's fond of _Art_!" She would say to
+creature like that imagines that she's fond of Art!" She would say to
 Odette, after deftly insinuating a few words of praise for Forcheville,
 as she had so often done for himself: "You can make room for M. de
 Forcheville there, can't you, Odette?"... '"In the dark!' Codfish!
@@ -11630,7 +11601,7 @@ surely people 'in society' (and, though one may find fault with them now
 and then, still, after all they are a very different matter from that
 gang of blackmailers) shew a profound sagacity in refusing to know
 them, or even to dirty the tips of their fingers with them. What a sound
-intuition there is in that '_Noli me tangere_' motto of the Faubourg
+intuition there is in that 'Noli me tangere' motto of the Faubourg
 Saint-Germain."
 
 He had long since emerged from the paths and avenues of the Bois, he had
@@ -11699,7 +11670,7 @@ him, as she had said in the early days of their love: "We shall meet,
 anyhow, to-morrow evening; there's a supper-party at the Verdurins',"
 but "We sha'n't be able to meet to-morrow evening; there's a
 supper-party at the Verdurins'." Or else the Verdurins were taking her
-to the Opéra-Comique, to see _Une Nuit de Cléopâtre_, and Swann could
+to the Opéra-Comique, to see Une Nuit de Cléopâtre, and Swann could
 read in her eyes that terror lest he should ask her not to go, which,
 but a little time before, he could not have refrained from greeting
 with a kiss as it flitted across the face of his mistress, but which now
@@ -11733,8 +11704,8 @@ pleasures are not everything; I must think of you also. A day may come
 when, seeing me irrevocably sundered from you, you will be entitled to
 reproach me with not having warned you at the decisive hour in which
 I felt that I was going to pass judgment on you, one of those stern
-judgments which love cannot long resist. You see, your _Nuit de
-Cléopâtre_ (what a title!) has no bearing on the point. What I must know
+judgments which love cannot long resist. You see, your Nuit de
+Cléopâtre (what a title!) has no bearing on the point. What I must know
 is whether you are indeed one of those creatures in the lowest grade of
 mentality and even of charm, one of those contemptible creatures who are
 incapable of foregoing a pleasure. For if you are such, how could anyone
@@ -11750,7 +11721,7 @@ eyes when I realise that you are not a person, that you are beneath
 everything in the world and have not the intelligence to raise yourself
 one inch higher? Obviously, I should have preferred to ask you, as
 though it had been a matter of little or no importance, to give up your
-_Nuit de Cléopâtre_ (since you compel me to sully my lips with so abject
+Nuit de Cléopâtre (since you compel me to sully my lips with so abject
 a name), in the hope that you would go to it none the less. But, since
 I had resolved to weigh you in the balance, to make so grave an issue
 depend upon your answer, I considered it more honourable to give you due
@@ -12601,7 +12572,7 @@ friendship for me. He's not the sort of man who would have so little
 consideration for me as to let himself be seen with me everywhere in
 public." This was embarrassing for Swann, who did not know quite to what
 rhetorical pitch he should screw himself up in speaking of Odette to my
-uncle. He began by alluding to her excellence, _a priori_, the axiom
+uncle. He began by alluding to her excellence, a priori, the axiom
 of her seraphic super-humanity, the revelation of her inexpressible
 virtues, no conception of which could possibly be formed. "I should
 like to speak to you about her," he went on, "you, who know what a woman
@@ -12652,7 +12623,7 @@ solely to satisfy a want of money which, thanks to himself, she no
 longer felt, or from some capricious instinct which might, at any
 moment, revive in her, he would lean, in impotent anguish, blinded and
 dizzy, over the bottomless abyss into which had passed, in which had
-been engulfed those years of his own, early in MacMahon's _Septennat_,
+been engulfed those years of his own, early in MacMahon's Septennat,
 in which one spent the winter on the Promenade des Anglais, the summer
 beneath the limes of Baden, and would find in those years a sad but
 splendid profundity, such as a poet might have lent to them; and he
@@ -13224,7 +13195,7 @@ Injustice by whose side a leafy bough evokes the idea of the forests
 that enshroud his secret lair.
 
 Swann had gone forward into the room, under pressure from Mme. de
-Saint-Euverte and in order to listen to an aria from _Orfeo_ which was
+Saint-Euverte and in order to listen to an aria from Orfeo which was
 being rendered on the flute, and had taken up a position in a corner
 from which, unfortunately, his horizon was bounded by two ladies of
 'uncertain' age, seated side by side, the Marquise de Cambremer and the
@@ -13581,7 +13552,7 @@ delightful an entertainment. And yet, although she remained more calm
 than Mme. de Franquetot, it was not without some uneasiness that she
 followed the flying fingers; what alarmed her being not the pianist's
 fate but the piano's, on which a lighted candle, jumping at each
-_fortissimo_, threatened, if not to set its shade on fire, at least to
+fortissimo, threatened, if not to set its shade on fire, at least to
 spill wax upon the ebony. At last she could contain herself no longer,
 and, running up the two steps of the platform on which the piano stood,
 flung herself on the candle to adjust its sconce. But scarcely had her
@@ -14100,7 +14071,7 @@ Doubtless the form in which it had codified those graces could not be
 analysed into any logical elements. But ever since, more than a year
 before, discovering to him many of the riches of his own soul, the love
 of music had been born, and for a time at least had dwelt in him, Swann
-had regarded musical _motifs_ as actual ideas, of another world, of
+had regarded musical motifs as actual ideas, of another world, of
 another order, ideas veiled in shadows, unknown, impenetrable by
 the human mind, which none the less were perfectly distinct one from
 another, unequal among themselves in value and in significance. When,
@@ -14135,7 +14106,7 @@ the phrase gave so new, so original a force, that those who had once
 heard it preserved the memory of it in the treasure-chamber of
 their minds. Swann would repair to it as to a conception of love and
 happiness, of which at once he knew as well in what respects it was
-peculiar as he would know of the _Princesse de Clèves_, or of _René_,
+peculiar as he would know of the Princesse de Clèves, or of René,
 should either of those titles occur to him. Even when he was not
 thinking of the little phrase, it existed, latent, in his mind, in the
 same way as certain other conceptions without material equivalent, such
@@ -14148,7 +14119,7 @@ them than we can with regard to any material object, than we can, for
 example, doubt the luminosity of a lamp that has just been lighted, in
 view of the changed aspect of everything in the room, from which has
 vanished even the memory of the darkness. In that way Vinteuil's phrase,
-like some theme, say, in _Tristan_, which represents to us also a
+like some theme, say, in Tristan, which represents to us also a
 certain acquisition of sentiment, has espoused our mortal state, had
 endued a vesture of humanity that was affecting enough. Its destiny was
 linked, for the future, with that of the human soul, of which it was one
@@ -14530,7 +14501,7 @@ longest period of calm through which he had yet been able to exist
 without being overtaken by an attack of jealousy, he had accepted an
 invitation to spend the evening at the theatre with the Princesse des
 Laumes. Having opened his newspaper to find out what was being
-played, the sight of the title--_Les Filles de Marbre_, by Théodore
+played, the sight of the title--Les Filles de Marbre, by Théodore
 Barrière,--struck him so cruel a blow that he recoiled instinctively
 from it and turned his head away. Illuminated, as though by a row of
 footlights, in the new surroundings in which it now appeared, that word
@@ -14545,7 +14516,7 @@ not attached any importance to it at the time. But he had had more
 confidence in her then than he had now. And the anonymous letter
 referred explicitly to relations of that sort. Without daring to lift
 his eyes to the newspaper, he opened it, turned the page so as not to
-see again the words, _Filles de Marbre_, and began to read mechanically
+see again the words, Filles de Marbre, and began to read mechanically
 the news from the provinces. There had been a storm in the Channel,
 and damage was reported from Dieppe, Cabourg, Beuzeval.... Suddenly he
 recoiled again in horror.
@@ -14827,7 +14798,7 @@ see how he was ever to escape. Poor Odette! He wished her no harm. She
 was but half to blame. Had he not been told that it was her own mother
 who had sold her, when she was still little more than a child, at Nice,
 to a wealthy Englishman? But what an agonising truth was now contained
-for him in those lines of Alfred de Vigny's _Journal d'un Poète_ which
+for him in those lines of Alfred de Vigny's Journal d'un Poète which
 he had previously read without emotion: "When one feels oneself smitten
 by love for a woman, one ought to say to oneself, 'What are 'her
 surroundings? What has been her life?' All one's future happiness lies
@@ -15160,7 +15131,7 @@ What! you don't believe me!" she went on, noticing that Svrann looked
 sceptical. And, carried away by the sincerity of her conviction, without
 putting any evil meaning into the word, which she used purely in the
 sense in which one employs it to speak of the affection that unites a
-pair of friends: "Why, she _adores_ you! No, indeed; I'm sure it would
+pair of friends: "Why, she adores you! No, indeed; I'm sure it would
 never do to say anything against you when she was about; one would soon
 be taught one's place! Whatever we might be doing, if we were looking at
 a picture, for instance, she would say, 'If only we had him here, he's
@@ -15591,7 +15562,7 @@ red, in which, on account of the limitations imposed by the process used
 in their reproduction, or by a whim on the designer's part, are blue or
 red not only the sky and the sea, but the ships and the church and the
 people in the streets. The name of Parma, one of the towns that I most
-longed to visit, after reading the _Chartreuse_, seeming to me compact
+longed to visit, after reading the Chartreuse, seeming to me compact
 and glossy, violet-tinted, soft, if anyone were to speak of such or
 such a house in Parma, in which I should be lodged, he would give me the
 pleasure of thinking that I was to inhabit a dwelling that was compact
@@ -15863,7 +15834,7 @@ up your coat, look, and let's get away!" and I remarked for the first
 time how common her speech was, and that she had, alas, no blue feather
 in her hat.
 
-Only, would _she_ come again to the Champs-Elysées? Next day she was
+Only, would she come again to the Champs-Elysées? Next day she was
 not there; but I saw her on the following days; I spent all my time
 revolving round the spot where she was at play with her friends, to such
 effect that once, when, they found, they were not enough to make up a
@@ -15955,7 +15926,7 @@ her "dearest mother" and it struck me that, if I had known her, I should
 have been for Gilberte some one wholly different, some one who knew
 people in her parents' world. While her grandchildren played together at
 a little distance, she would sit and read the Débats, which she called
-"My old _Débats_!" as, with an aristocratic familiarity, she would say,
+"My old Débats!" as, with an aristocratic familiarity, she would say,
 speaking of the police-sergeant or the woman who let the chairs, "My
 old friend the police-sergeant," or "The chair-keeper and I, who are old
 friends."
@@ -15968,7 +15939,7 @@ I was growing sick with misery between the motionless wooden horses and
 the white lawn, caught in a net of black paths from which the snow had
 been cleared, while the statue that surmounted it held in its hand a
 long pendent icicle which seemed to explain its gesture. The old lady
-herself, having folded up her _Débats_, asked a passing nursemaid
+herself, having folded up her Débats, asked a passing nursemaid
 the time, thanking her with "How very good of you!" then begged the
 road-sweeper to tell her grandchildren to come, as she felt cold, adding
 "A thousand thanks. I am sorry to give you so much trouble!" Suddenly
@@ -16168,7 +16139,7 @@ espouse, to maintain, to raise, to rejoice my dream.
 And there was another day on which she said to me: "You know, you may
 call me 'Gilberte'; in any case, I'm going to call you by your first
 name. It's too silly not to." Yet she continued for a while to address
-me by the more formal '_vous_,' and, when I drew her attention to this,
+me by the more formal 'vous,' and, when I drew her attention to this,
 smiled, and composing, constructing a phrase like those that are put
 into the grammar-books of foreign languages with no other object than to
 teach us to make use of a new word, ended it with my Christian name. And
@@ -16212,7 +16183,7 @@ Mamma, who was already dressed to go out, the coils of her black hair
 elaborately built up, and her beautiful hands, plump and white, fragrant
 still with soap--I had been apprised, by seeing a column of dust
 standing by itself in the air above the piano, and by hearing a
-barrel-organ playing, beneath the window, _En revenant de la revue_,
+barrel-organ playing, beneath the window, En revenant de la revue,
 that the winter had received, until nightfall, an unexpected, radiant
 visit from a day of spring. While we sat at luncheon, by opening her
 window, the lady opposite had sent packing, in the twinkling of an eye,
@@ -16276,7 +16247,7 @@ that forced her to go out or to stay at home, I was in contact with the
 mystery of her unknown life. It was this mystery, too, which troubled
 me when, running at the sharp-voiced girl's bidding, so as to begin our
 game without more delay, I saw Gilberte, so quick and informal with
-us, make a ceremonious bow to the old lady with the _Débats_ (who
+us, make a ceremonious bow to the old lady with the Débats (who
 acknowledged it with "What a lovely sun! You'd think there was a fire
 burning.") speaking to her with a shy smile, with an air of constraint
 which called to my mind the other little girl that Gilberte must be when
@@ -16357,7 +16328,7 @@ you may make up your mind, my dear friend, I sha'n't come!
 "First of all I've a big luncheon-party; then in the afternoon I
 am going to a friend's house to see King Theodosius arrive from her
 windows; won't that be splendid?--and then, next day, I'm going to
-_Michel Strogoff_, and after that it will soon be Christmas, and the New
+Michel Strogoff, and after that it will soon be Christmas, and the New
 Year holidays! Perhaps they'll take me south, to the Riviera; won't that
 be nice? Though I should miss the Christmas-tree here; anyhow, if I do
 stay in Paris, I sha'n't be coming here, because I shall be out paying
@@ -16555,7 +16526,7 @@ from it something that would bring me happiness. I told my parents again
 that Gilberte was very fond of her governess, as if the statement, when
 repeated for the hundredth time, would at last have the effect of making
 Gilberte suddenly burst into the room, come to live with us for ever.
-I had already sung the praises of the old lady who read the _Débats_
+I had already sung the praises of the old lady who read the Débats
 (I had hinted to my parents that she must at least be an Ambassador's
 widow, if not actually a Highness) and I continued to descant on her
 beauty, her splendour, her nobility, until the day on which I mentioned
@@ -17090,360 +17061,3 @@ thin slice, held between the contiguous impressions that composed our
 life at that time; remembrance of a particular form is but regret for a
 particular moment; and houses, roads, avenues are as fugitive, alas, as
 the years.
-
-
-
-
-
-        
-            *** END OF THE PROJECT GUTENBERG EBOOK SWANN'S WAY ***
-        
-
-    
-
-Updated editions will replace the previous one—the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at www.gutenberg.org. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
-    
-    • You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
-        works.
-    
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
-    
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
-
