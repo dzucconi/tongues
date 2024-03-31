@@ -11,7 +11,7 @@ const ROOT = document.getElementById("root")!;
 
 type Tuple = [number, number];
 
-const { params, reconfigure } = configure<{
+interface Configuration {
   append: Tuple;
   backgroundColor: string;
   fontColor: string;
@@ -19,15 +19,23 @@ const { params, reconfigure } = configure<{
   nGram: number;
   textRange: Tuple;
   trim: Tuple;
-}>({
+}
+
+const DEFAULTS: Configuration = {
   append: [1, 20], // Range of ngrams to append
   backgroundColor: "black",
   fontColor: "white",
   fps: [1, 30], // Range of FPS
   nGram: 5, // N-gram size
-  textRange: [0, 100], // Start/stop percentage of text to use for n-grams // [99.995, 100]
+  textRange: [0, 100], // Start/stop percentage of text to use for n-grams
   trim: [1, 5], // Range of ngams to remove
+};
+
+const { params, reconfigure, encode } = configure<Configuration>({
+  ...DEFAULTS,
 });
+
+console.log(`https://in-tongues.work.damonzucconi.com/?${encode(params)}`);
 
 // @ts-ignore
 window.reconfigure = reconfigure;
