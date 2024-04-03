@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  hyphens: auto;
+  word-wrap: break-word;
+  user-select: none;
+  margin: 0;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 1em;
+  font-size: 1rem;
+  text-align: center;
+  font-weight: normal;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.33;
+  font-size: max(3vh, 32px);
+}
+
+iframe {
+  border: 0;
+  width: 100%;
+  height: 100vh;
+}
