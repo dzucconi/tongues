@@ -1,3 +1,6 @@
+// TODO:
+// - Support mode that hides cursor and click to fullscreen
+
 import { nGram } from "n-gram";
 import { FrameInterval } from "frame-interval";
 import { ambient, block } from "audiate";
