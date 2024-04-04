@@ -3,7 +3,6 @@
 
 import { nGram } from "n-gram";
 import { FrameInterval } from "frame-interval";
-import { ambient, block } from "audiate";
 import { audio } from "./audio";
 import { configure } from "queryparams";
 
@@ -116,19 +115,20 @@ const decider = new FrameInterval(1, () => {
   runner.start();
 });
 
-const isTouch = "ontouchstart" in window || "onmsgesturechange" in window;
+// Pre-fill screen
+init();
 
-if (isTouch) {
-  block({
-    clickToEnable: true,
-    message: "Play",
-    onEnable: () => {
-      init();
-      decider.start();
-    },
-  });
-} else {
-  init();
-  ambient();
-  decider.start();
-}
+// Start animation
+decider.start();
+
+// Audio status
+const status = document.createElement("div");
+status.classList.add("status", `status--${Howler.ctx.state}`);
+status.textContent = Howler.ctx.state === "running" ? "🔊" : "🔇";
+document.body.appendChild(status);
+
+Howler.ctx.addEventListener("statechange", () => {
+  status.textContent = Howler.ctx.state === "running" ? "🔊" : "🔇";
+  status.classList.remove("status--running", "status--suspended");
+  status.classList.add(`status--${Howler.ctx.state}`);
+});

@@ -910,11 +910,6 @@ argparse@^2.0.1:
   resolved "https://registry.yarnpkg.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
   integrity sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==
 
-audiate@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/audiate/-/audiate-2.0.0.tgz#f541a5080f4b26ebd4d6bcbe26f07b2a65bf1d7b"
-  integrity sha512-9PBzvROdF3TsazQmo/V55IU5nrnDYY1CYQmazMtDVc7dk6ZBmxb/g3riiatzfc0aguQaNaUvTylav+Y0pOXw8g==
-
 base-x@^3.0.8:
   version "3.0.9"
   resolved "https://registry.yarnpkg.com/base-x/-/base-x-3.0.9.tgz#6349aaabb58526332de9f60995e548a53fe21320"

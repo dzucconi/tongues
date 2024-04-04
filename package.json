@@ -15,7 +15,6 @@
     "wrapper-dev": "parcel ./wrapper/index.html --open"
   },
   "dependencies": {
-    "audiate": "^2.0.0",
     "frame-interval": "^1.0.47",
     "howler": "^2.2.4",
     "n-gram": "^2.0.2",
