@@ -114,7 +114,7 @@ export const init = () => {
     {
       append: [1, 1],
       backgroundColor: "black",
-      fontColor: "red",
+      fontColor: "white",
       fps: [1, 30],
       nGram: 5,
       textRange: [20, 50],
@@ -176,8 +176,8 @@ export const init = () => {
     },
     {
       append: [1, 1],
-      backgroundColor: "white",
-      fontColor: "red",
+      backgroundColor: "yellow",
+      fontColor: "black",
       fps: [1, 20],
       nGram: 4,
       textRange: [0.03, 1],
@@ -194,8 +194,8 @@ export const init = () => {
     },
     {
       append: [1, 5],
-      backgroundColor: "white",
-      fontColor: "blue",
+      backgroundColor: "blue",
+      fontColor: "white",
       fps: [1, 30],
       nGram: 4,
       textRange: [27.03, 27.031],
@@ -255,15 +255,6 @@ export const init = () => {
       textRange: [0, 0.0014],
       trim: [1, 3],
     },
-    {
-      append: [1, 3],
-      backgroundColor: "blue",
-      fontColor: "yellow",
-      fps: [1, 36],
-      nGram: 6,
-      textRange: [0, 100],
-      trim: [1, 20],
-    },
   ];
 
   console.log(`${configurations.length} available configurations`);
@@ -271,9 +262,14 @@ export const init = () => {
   const configuration =
     configurations[params.edition_number] || DEFAULT_CONFIGURATION;
 
-  const src = `https://in-tongues.work.damonzucconi.com/?${encode(
-    configuration
-  )}`;
+  const base = "https://in-tongues.work.damonzucconi.com/";
+  const src = `${base}?${encode(configuration)}`;
+
+  console.log(
+    configurations.map((config) => {
+      return `${base}?${encode(config)}`;
+    })
+  );
 
   const root = document.getElementById("root")!;
 
