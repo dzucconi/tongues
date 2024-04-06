@@ -1,7 +1,12 @@
+@font-face {
+  font-family: "Union";
+  src: url("./fonts/union.woff2") format("woff2");
+}
+
 body {
   background-color: black;
   color: white;
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Union", "Helvetica Neue", Helvetica, sans-serif;
   line-height: 1.33;
   font-size: max(3vw, 3vh);
   margin: 0.5em 1em;
