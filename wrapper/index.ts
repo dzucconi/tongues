@@ -1,6 +1,3 @@
-// TODO:
-// - Detect if offline and display warning
-
 import { configure, encode } from "queryparams";
 
 export const init = () => {
@@ -257,19 +254,11 @@ export const init = () => {
     },
   ];
 
-  console.log(`${configurations.length} available configurations`);
-
   const configuration =
     configurations[params.edition_number] || DEFAULT_CONFIGURATION;
 
   const base = "https://in-tongues.work.damonzucconi.com/";
   const src = `${base}?${encode(configuration)}`;
-
-  console.log(
-    configurations.map((config) => {
-      return `${base}?${encode(config)}`;
-    })
-  );
 
   const root = document.getElementById("root")!;
 
