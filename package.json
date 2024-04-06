@@ -12,7 +12,8 @@
   "scripts": {
     "dev": "parcel ./src/index.html --open",
     "build": "parcel build ./src/index.html",
-    "wrapper-dev": "parcel ./wrapper/index.html --open"
+    "wrapper-dev": "parcel ./wrapper/index.html --open",
+    "wrapper-build": "parcel build ./wrapper/index.html"
   },
   "dependencies": {
     "frame-interval": "^1.0.47",
